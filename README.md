@@ -19,4 +19,4 @@ For all the details of the implementation, the user is referred to the reference
 Saliva samples, health records, and clinical data were acquired at IRCCS Fondazione Don Carlo Gnocchi ONLUS, Santa Maria Nascente Hospital, Milano, Italy, and Centro Spalenza Hospital, Rovato, Italy between 16th April 2020 to July 2020 (Further information regarding the acquisition protocol and the dataset are available in the original paper: ["COVID-19 salivary Raman fingerprint: innovative approach for the detection of current and past SARS-CoV-2 infections"](https://www.nature.com/articles/s41598-021-84565-3)).
 
 ### Reference
-Piazza, F., Spinelli, A., Maggioni, F., Bedoni, M., Messina, E. (2025). _A Robust Support Vector Machine Approach for Raman Data Classification_. Preprint available at https://arxiv.org/abs/2501.17904
+Piazza, M., Spinelli, A., Maggioni, F., Bedoni, M., Messina, E. (2025). _A Robust Support Vector Machine Approach for Raman Data Classification_. Preprint available at https://arxiv.org/abs/2501.17904
